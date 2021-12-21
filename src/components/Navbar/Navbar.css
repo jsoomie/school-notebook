@@ -1,0 +1,21 @@
+.navbar {
+  background-color: blue;
+  padding: 1rem;
+}
+
+.navbar ul {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: flex-end;
+  color: #fff;
+}
+
+.navbar .logo {
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  color: #fff;
+}
