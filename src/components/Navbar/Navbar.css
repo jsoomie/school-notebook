@@ -9,6 +9,7 @@
   align-items: center;
   justify-content: flex-end;
   color: #fff;
+  gap: 1rem;
 }
 
 .navbar .logo {
