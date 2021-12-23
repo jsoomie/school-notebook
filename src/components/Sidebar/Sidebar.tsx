@@ -2,7 +2,7 @@ import "./Sidebar.css";
 
 export const Sidebar = () => {
   return (
-    <div>
+    <div className="sidebar">
       <h1>Sidebar</h1>
     </div>
   );
