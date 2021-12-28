@@ -1,4 +1,4 @@
-import { Home, Missing, Art, English, Math, Psy } from "pages";
+import { Home, Missing, Art, English, Math, Psy, Sections } from "pages";
 import { Navbar, Sidebar } from "components";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
@@ -14,6 +14,7 @@ function App() {
         <Route path="/english" element={<English />} />
         <Route path="/math" element={<Math />} />
         <Route path="/psy" element={<Psy />} />
+        <Route path="/sections" element={<Sections />} />
         <Route path="*" element={<Missing />} />
       </Routes>
     </div>
