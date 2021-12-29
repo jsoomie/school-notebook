@@ -1,0 +1,8 @@
+.sidebar {
+  background-color: red;
+}
+
+.sidebar p,
+.sidebar h1 {
+  margin: 0;
+}
