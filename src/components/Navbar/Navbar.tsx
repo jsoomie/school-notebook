@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Typography } from "@mui/material";
 import "./Navbar.css";
 
 export const Navbar = () => {
@@ -6,7 +7,9 @@ export const Navbar = () => {
     <nav className="navbar">
       <ul>
         <li className="logo">
-          <Link to="/">School Notebook</Link>
+          <Link to="/">
+            <Typography variant="h3">School Notebook</Typography>
+          </Link>
         </li>
         <li>
           <Link to="/">Home</Link>
