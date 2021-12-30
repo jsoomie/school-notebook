@@ -1,23 +1,27 @@
 import { Link } from "react-router-dom";
-import { Typography } from "@mui/material";
+import { Typography, List, ListItem } from "@mui/material";
 import "./Navbar.css";
 
 export const Navbar = () => {
   return (
     <nav className="navbar">
-      <ul>
-        <li className="logo">
+      <List>
+        <ListItem className="logo">
           <Link to="/">
             <Typography variant="h3">School Notebook</Typography>
           </Link>
-        </li>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
-        <li>
-          <Link to="/sections">Sections</Link>
-        </li>
-      </ul>
+        </ListItem>
+        <ListItem>
+          <Link to="/">
+            <Typography variant="body1">Home</Typography>
+          </Link>
+        </ListItem>
+        <ListItem>
+          <Link to="/sections">
+            <Typography variant="body1">Sections</Typography>
+          </Link>
+        </ListItem>
+      </List>
     </nav>
   );
 };
