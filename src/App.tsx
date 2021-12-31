@@ -1,13 +1,12 @@
 import { Home, Missing, Art, English, Math, Psy, Sections } from "pages";
-import { Navbar, Sidebar } from "components";
+import { Menu } from "components";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Sidebar />
-      <Navbar />
+      <Menu />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/art" element={<Art />} />
