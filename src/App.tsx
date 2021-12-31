@@ -3,18 +3,24 @@ import { Menu } from "components";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 
+const routes = [
+  { path: "/", element: <Home /> },
+  { path: "/art", element: <Art /> },
+  { path: "/english", element: <English /> },
+  { path: "/math", element: <Math /> },
+  { path: "/psy", element: <Psy /> },
+  { path: "/sections", element: <Sections /> },
+  { path: "*", element: <Missing /> },
+];
+
 function App() {
   return (
     <div className="App">
       <Menu />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/art" element={<Art />} />
-        <Route path="/english" element={<English />} />
-        <Route path="/math" element={<Math />} />
-        <Route path="/psy" element={<Psy />} />
-        <Route path="/sections" element={<Sections />} />
-        <Route path="*" element={<Missing />} />
+        {routes.map((route) => (
+          <Route key={route.path} path={route.path} element={route.element} />
+        ))}
       </Routes>
     </div>
   );
