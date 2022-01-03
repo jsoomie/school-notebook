@@ -4,7 +4,6 @@ import { Box, Typography } from "@mui/material";
 export const Home = () => {
   return (
     <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-      <Typography variant="h3">Merry Christmas and Happy New Year!</Typography>
       <Typography paragraph>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
         placeat soluta quos ipsa saepe laboriosam! Tenetur, praesentium.
