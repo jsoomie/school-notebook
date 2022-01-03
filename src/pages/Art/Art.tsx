@@ -1,9 +1,10 @@
 import "./Art.css";
+import { Typography, Box } from "@mui/material";
 
 export const Art = () => {
   return (
-    <div>
-      <h1>Art</h1>
-    </div>
+    <Box>
+      <Typography variant="h1">Art</Typography>
+    </Box>
   );
 };
