@@ -1,7 +1,25 @@
-import { Box, CssBaseline, AppBar, Toolbar, IconButton } from "@mui/material";
+import {
+  Box,
+  CssBaseline,
+  AppBar,
+  Toolbar,
+  IconButton,
+  Typography,
+} from "@mui/material";
 import { Menu as MenuIcon } from "@mui/icons-material";
+import { useState } from "react";
 
 export const Menu = () => {
+  const [open, setOpen] = useState(false);
+
+  const handleDrawerOpen = () => {
+    setOpen(true);
+  };
+
+  const handleDrawerClose = () => {
+    setOpen(false);
+  };
+
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
@@ -15,6 +33,9 @@ export const Menu = () => {
           >
             <MenuIcon />
           </IconButton>
+          <Typography variant="h6" noWrap component="div">
+            Hello
+          </Typography>
         </Toolbar>
       </AppBar>
     </Box>
