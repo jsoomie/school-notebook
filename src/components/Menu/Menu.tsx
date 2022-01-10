@@ -7,7 +7,7 @@ import {
   Typography,
 } from "@mui/material";
 import { Menu as MenuIcon } from "@mui/icons-material";
-import { useState, MouseEvent, EventHandler } from "react";
+import { useState, MouseEvent } from "react";
 
 export const Menu = () => {
   const [open, setOpen] = useState(false);
@@ -20,7 +20,8 @@ export const Menu = () => {
     setOpen(false);
   };
 
-  const handleClick = () => {
+  const handleClick = (e: MouseEvent) => {
+    e.preventDefault();
     console.log("clicked");
   };
 
@@ -34,7 +35,7 @@ export const Menu = () => {
             aria-label="open drawer"
             edge="start"
             sx={{ marginRight: "36px" }}
-            onClick={(e) => console.log(e)}
+            onClick={handleClick}
           >
             <MenuIcon />
           </IconButton>
