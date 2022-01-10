@@ -7,7 +7,7 @@ import {
   Typography,
 } from "@mui/material";
 import { Menu as MenuIcon } from "@mui/icons-material";
-import { useState } from "react";
+import { useState, MouseEvent, EventHandler } from "react";
 
 export const Menu = () => {
   const [open, setOpen] = useState(false);
@@ -20,6 +20,10 @@ export const Menu = () => {
     setOpen(false);
   };
 
+  const handleClick = () => {
+    console.log("clicked");
+  };
+
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
@@ -30,6 +34,7 @@ export const Menu = () => {
             aria-label="open drawer"
             edge="start"
             sx={{ marginRight: "36px" }}
+            onClick={(e) => console.log(e)}
           >
             <MenuIcon />
           </IconButton>
