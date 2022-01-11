@@ -40,7 +40,7 @@ export const Menu = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Hello
+            Title Here
           </Typography>
         </Toolbar>
       </AppBar>
