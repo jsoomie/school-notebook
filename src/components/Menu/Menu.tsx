@@ -22,6 +22,8 @@ export const Menu = () => {
 
   const handleClick = (e: MouseEvent) => {
     e.preventDefault();
+    setOpen(!open);
+    console.log(open);
     console.log("clicked");
   };
 
