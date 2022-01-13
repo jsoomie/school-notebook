@@ -12,13 +12,13 @@ import { useState, MouseEvent } from "react";
 export const Menu = () => {
   const [open, setOpen] = useState(false);
 
-  const handleDrawerOpen = () => {
-    setOpen(true);
-  };
+  // const handleDrawerOpen = () => {
+  //   setOpen(true);
+  // };
 
-  const handleDrawerClose = () => {
-    setOpen(false);
-  };
+  // const handleDrawerClose = () => {
+  //   setOpen(false);
+  // };
 
   const handleClick = (e: MouseEvent) => {
     e.preventDefault();
