@@ -5,6 +5,7 @@ import {
   Toolbar,
   IconButton,
   Typography,
+  Drawer,
 } from "@mui/material";
 import { Menu as MenuIcon } from "@mui/icons-material";
 import { useState, MouseEvent } from "react";
@@ -46,6 +47,7 @@ export const Menu = () => {
           </Typography>
         </Toolbar>
       </AppBar>
+      <Drawer />
     </Box>
   );
 };
