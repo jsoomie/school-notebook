@@ -5,21 +5,12 @@ import {
   Toolbar,
   IconButton,
   Typography,
-  Drawer,
 } from "@mui/material";
 import { Menu as MenuIcon } from "@mui/icons-material";
 import { useState, MouseEvent } from "react";
 
 export const Menu = () => {
   const [open, setOpen] = useState(false);
-
-  // const handleDrawerOpen = () => {
-  //   setOpen(true);
-  // };
-
-  // const handleDrawerClose = () => {
-  //   setOpen(false);
-  // };
 
   const handleClick = (e: MouseEvent) => {
     e.preventDefault();
@@ -47,7 +38,7 @@ export const Menu = () => {
           </Typography>
         </Toolbar>
       </AppBar>
-      <Drawer />
+      Drawer here
     </Box>
   );
 };
