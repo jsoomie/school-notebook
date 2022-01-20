@@ -14,5 +14,5 @@ Psychology
 
 ## Logs
 
-Trying to figure out how to add a sidebar menu inside of material ui with ts and have it affect the content of different pages.
+Trying to figure out how to add a sidebar menu inside of material ui with ts and have it affect the content of different pages. Now just trying to figure out out how to create a drawer from scratch.
 
