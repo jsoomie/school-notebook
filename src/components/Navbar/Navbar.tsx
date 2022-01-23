@@ -1,9 +1,12 @@
+import { AppBar, Toolbar, Typography } from "@mui/material";
 import "./Navbar.css";
 
 export const Navbar = () => {
   return (
-    <div>
-      <h1>Navbar here</h1>
-    </div>
+    <AppBar>
+      <Toolbar>
+        <Typography variant="h4">Hello World</Typography>
+      </Toolbar>
+    </AppBar>
   );
 };
