@@ -7,6 +7,8 @@ export const Math = () => {
       <p>Wednesday class @ 1245 - 1445</p>
       <p>Only meet on exam days besides the first 2 classes</p>
       <p>Homework given per week. Must do hw and eDLAs as done per module</p>
+      <p>Exams after next next week</p>
+      <p>Study for exam: Polynomials</p>
     </div>
   );
 };
