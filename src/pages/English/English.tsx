@@ -8,6 +8,7 @@ export const English = () => {
       <p>
         Meetings are only on Mondays and Wednesdays are reserved for working.
       </p>
+      <p>Find article to write rhetorical paper on. Due Feb. 1 2359</p>
     </div>
   );
 };
