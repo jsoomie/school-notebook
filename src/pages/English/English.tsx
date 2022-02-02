@@ -13,6 +13,7 @@ export const English = () => {
         Write about one article and do the same thing to another article after
         reading from part B
       </p>
+      <p>Done with part A needs part B</p>
     </div>
   );
 };
