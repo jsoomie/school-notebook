@@ -5,7 +5,8 @@ export const Psy = () => {
     <div>
       <h1>Psy</h1>
       <p>Class on fridays @ 0900 - 1035</p>
-      <p>Fine topic on Psychological Theories</p>
+      <p>Find topic on Psychological Theories</p>
+      <p>Cognitive Theory chosen</p>
     </div>
   );
 };
