@@ -14,6 +14,7 @@ export const English = () => {
         reading from part B
       </p>
       <p>Done with part A needs part B</p>
+      <p>Part A and Part B turned in</p>
     </div>
   );
 };
