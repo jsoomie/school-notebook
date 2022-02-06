@@ -10,6 +10,7 @@ export const Math = () => {
       <p>Exams after next next week</p>
       <p>Study for exam: Polynomials</p>
       <p>This wednesday, another class just to showcase how to take test</p>
+      <p>Study for exams and finish the hw!!!</p>
     </div>
   );
 };
