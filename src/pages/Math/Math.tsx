@@ -12,6 +12,7 @@ export const Math = () => {
       <p>This wednesday, another class just to showcase how to take test</p>
       <p>Study for exams and finish the hw!!!</p>
       <p>HW done, just study for exams</p>
+      <p>exams today, study before class</p>
     </div>
   );
 };
