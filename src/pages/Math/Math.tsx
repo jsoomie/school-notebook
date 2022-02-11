@@ -13,6 +13,7 @@ export const Math = () => {
       <p>Study for exams and finish the hw!!!</p>
       <p>HW done, just study for exams</p>
       <p>exams today, study before class</p>
+      <p>Continue with hw assignments daily</p>
     </div>
   );
 };
