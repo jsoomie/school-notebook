@@ -15,6 +15,7 @@ export const English = () => {
       </p>
       <p>Done with part A needs part B</p>
       <p>Part A and Part B turned in</p>
+      <p>Do rough draft due tuesday</p>
     </div>
   );
 };
