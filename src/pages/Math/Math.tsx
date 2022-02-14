@@ -14,6 +14,7 @@ export const Math = () => {
       <p>HW done, just study for exams</p>
       <p>exams today, study before class</p>
       <p>Continue with hw assignments daily</p>
+      <p>Math sections 1.1 - 1.2 Due soon</p>
     </div>
   );
 };
