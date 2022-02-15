@@ -17,6 +17,9 @@ export const English = () => {
       <p>Part A and Part B turned in</p>
       <p>Do rough draft due tuesday</p>
       <p>Rough draft and peer review</p>
+      <p>
+        New outline done, working on rough draft now, come up with a new hook
+      </p>
     </div>
   );
 };
