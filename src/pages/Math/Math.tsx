@@ -15,6 +15,7 @@ export const Math = () => {
       <p>exams today, study before class</p>
       <p>Continue with hw assignments daily</p>
       <p>Math sections 1.1 - 1.2 Due soon</p>
+      <p>1.2 Due today, finish first then continue with english</p>
     </div>
   );
 };
