@@ -20,6 +20,7 @@ export const English = () => {
       <p>
         New outline done, working on rough draft now, come up with a new hook
       </p>
+      <p>RD donne PR next</p>
     </div>
   );
 };
