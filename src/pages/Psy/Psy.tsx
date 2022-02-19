@@ -9,6 +9,7 @@ export const Psy = () => {
       <p>Cognitive Theory chosen</p>
       <p>Neuroscience next</p>
       <p>Neuroscience Paper due Feb 10</p>
+      <p>Quiz due Sunday</p>
     </div>
   );
 };
