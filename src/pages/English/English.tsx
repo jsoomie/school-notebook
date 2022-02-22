@@ -22,6 +22,7 @@ export const English = () => {
       </p>
       <p>RD donne PR next</p>
       <p>Final Draft due on monday</p>
+      <p>Using late pass for first essay, one more week to finish</p>
     </div>
   );
 };
