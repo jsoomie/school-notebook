@@ -9,6 +9,9 @@ export const Art = () => {
       <Typography variant="body2">
         Finish watching video online and continue with classwork and finish hw
       </Typography>
+      <Typography variant="body1">
+        Finish outline or work on it and mood board
+      </Typography>
     </Box>
   );
 };
