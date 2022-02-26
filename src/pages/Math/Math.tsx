@@ -19,6 +19,7 @@ export const Math = () => {
       <p>Math sections 1.1 - 1.2 Due soon</p>
       <p>1.2 Due today, finish first then continue with english</p>
       <p>HW 1.3 and 1.4 done, need two more</p>
+      <p>Math is making me angry</p>
     </div>
   );
 };
