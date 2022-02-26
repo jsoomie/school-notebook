@@ -25,6 +25,7 @@ export const English = () => {
       <p>Using late pass for first essay, one more week to finish</p>
       <p>No class on monday, moved to wed instead</p>
       <p>Essay with late pass due this monday</p>
+      <p>Essay done, needs to be turned in still</p>
     </div>
   );
 };
