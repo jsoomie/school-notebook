@@ -20,6 +20,7 @@ export const Math = () => {
       <p>1.2 Due today, finish first then continue with english</p>
       <p>HW 1.3 and 1.4 done, need two more</p>
       <p>Math is making me angry</p>
+      <p>Study for math</p>
     </div>
   );
 };
