@@ -21,6 +21,7 @@ export const Math = () => {
       <p>HW 1.3 and 1.4 done, need two more</p>
       <p>Math is making me angry</p>
       <p>Study for math</p>
+      <p>Math review finished. keep reviewing</p>
     </div>
   );
 };
