@@ -12,6 +12,7 @@ export const Art = () => {
       <Typography variant="body1">
         Finish outline or work on it and mood board
       </Typography>
+      <Typography variant="body1">Finish project by tuesday</Typography>
     </Box>
   );
 };
