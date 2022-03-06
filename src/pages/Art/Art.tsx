@@ -13,6 +13,7 @@ export const Art = () => {
         Finish outline or work on it and mood board
       </Typography>
       <Typography variant="body1">Finish project by tuesday</Typography>
+      <Typography variant="body1">Somewhat finished but good enough</Typography>
     </Box>
   );
 };
