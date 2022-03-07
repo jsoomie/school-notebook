@@ -14,6 +14,9 @@ export const Art = () => {
       </Typography>
       <Typography variant="body1">Finish project by tuesday</Typography>
       <Typography variant="body1">Somewhat finished but good enough</Typography>
+      <Typography variant="body1">
+        Little touches tonight and tomorrow should be good enought
+      </Typography>
     </Box>
   );
 };
