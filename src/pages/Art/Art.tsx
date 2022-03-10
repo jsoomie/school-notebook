@@ -17,6 +17,9 @@ export const Art = () => {
       <Typography variant="body1">
         Little touches tonight and tomorrow should be good enought
       </Typography>
+      <Typography variant="body1">
+        Touch up app add finishing touches before done
+      </Typography>
     </Box>
   );
 };
