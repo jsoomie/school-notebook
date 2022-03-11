@@ -20,6 +20,7 @@ export const Art = () => {
       <Typography variant="body1">
         Touch up app add finishing touches before done
       </Typography>
+      <Typography variant="body1">Turned in final project 01</Typography>
     </Box>
   );
 };
