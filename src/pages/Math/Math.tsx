@@ -25,6 +25,7 @@ export const Math = () => {
       <p>Take math exam today</p>
       <p>Finished part 1 of hw starting on part 2 now and exam next week</p>
       <p>continue with hw</p>
+      <p>Exam this upcoming wed. continue hw and study</p>
     </div>
   );
 };
