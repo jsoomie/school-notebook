@@ -28,6 +28,7 @@ export const English = () => {
       <p>Essay done, needs to be turned in still</p>
       <p>Essay turned in quick</p>
       <p>Finish essay 2 outline</p>
+      <p>Rough draft # 2 due this week</p>
     </div>
   );
 };
