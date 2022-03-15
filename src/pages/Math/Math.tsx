@@ -29,6 +29,7 @@ export const Math = () => {
       <p>
         Math hw done, start with review and understanding function contruction
       </p>
+      <p>Do review, finish</p>
     </div>
   );
 };
