@@ -21,6 +21,7 @@ export const Art = () => {
         Touch up app add finishing touches before done
       </Typography>
       <Typography variant="body1">Turned in final project 01</Typography>
+      <Typography variant="body1">Do strategy/scope and mood board</Typography>
     </Box>
   );
 };
