@@ -22,6 +22,9 @@ export const Art = () => {
       </Typography>
       <Typography variant="body1">Turned in final project 01</Typography>
       <Typography variant="body1">Do strategy/scope and mood board</Typography>
+      <Typography variant="body1">
+        Outline for next project due after spring break
+      </Typography>
     </Box>
   );
 };
