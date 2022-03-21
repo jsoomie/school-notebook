@@ -31,6 +31,7 @@ export const English = () => {
       <p>Rough draft # 2 due this week</p>
       <p>Finish final draft of essay 2 by sunday night</p>
       <p>Last day to turn in final essay</p>
+      <p>Turn in today</p>
     </div>
   );
 };
