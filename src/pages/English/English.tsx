@@ -33,6 +33,7 @@ export const English = () => {
       <p>Last day to turn in final essay</p>
       <p>Turn in today</p>
       <p>Done</p>
+      <p>New Week, start new essay</p>
     </div>
   );
 };
