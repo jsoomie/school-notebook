@@ -26,6 +26,7 @@ export const Art = () => {
         Outline for next project due after spring break
       </Typography>
       <Typography variant="body1">Do a partial outline</Typography>
+      <Typography variant="body1">Outline due today</Typography>
     </Box>
   );
 };
