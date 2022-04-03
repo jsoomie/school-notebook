@@ -33,6 +33,7 @@ export const Math = () => {
       <p>Study before exam</p>
       <p>Missing one hw for this week</p>
       <p>Finished two hw, need 3 more</p>
+      <p>One more hw then do the review</p>
     </div>
   );
 };
