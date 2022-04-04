@@ -35,6 +35,7 @@ export const English = () => {
       <p>Done</p>
       <p>New Week, start new essay</p>
       <p>Class today about essay 3</p>
+      <p>Class today then do math and art</p>
     </div>
   );
 };
