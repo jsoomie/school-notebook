@@ -11,6 +11,7 @@ export const Psy = () => {
       <p>Neuroscience Paper due Feb 10</p>
       <p>Quiz due Sunday</p>
       <p>Discussion due with works cited</p>
+      <p>Activity due today</p>
     </div>
   );
 };
