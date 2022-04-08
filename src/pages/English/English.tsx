@@ -37,6 +37,7 @@ export const English = () => {
       <p>Class today about essay 3</p>
       <p>Class today then do math and art</p>
       <p>Outline due soon</p>
+      <p>Second chance for outline due tonight</p>
     </div>
   );
 };
