@@ -12,6 +12,7 @@ export const Psy = () => {
       <p>Quiz due Sunday</p>
       <p>Discussion due with works cited</p>
       <p>Activity due today</p>
+      <p>Missed class by accident</p>
     </div>
   );
 };
