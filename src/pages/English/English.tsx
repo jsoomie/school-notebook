@@ -39,6 +39,7 @@ export const English = () => {
       <p>Outline due soon</p>
       <p>Second chance for outline due tonight</p>
       <p>Outline due</p>
+      <p>Due date for essay upcoming</p>
     </div>
   );
 };
