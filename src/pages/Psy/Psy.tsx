@@ -13,7 +13,7 @@ export const Psy = () => {
       <p>Discussion due with works cited</p>
       <p>Activity due today</p>
       <p>Missed class by accident</p>
-      <p>WOrk on readings</p>
+      <p>Work on readings</p>
       <p>Class missed for two weeks.</p>
       <p>Class was canceled last week</p>
     </div>

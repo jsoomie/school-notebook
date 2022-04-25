@@ -41,6 +41,7 @@ export const English = () => {
       <p>Outline due</p>
       <p>Due date for essay upcoming</p>
       <p>Late pass for essay: must finish by this weekend</p>
+      <p>Last chance for essay</p>
     </div>
   );
 };
