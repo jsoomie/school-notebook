@@ -40,6 +40,7 @@ export const Math = () => {
       <p>Upcoming exam</p>
       <p>Finish HW then study for exam</p>
       <p>Exam taken, Exame retake on 5/4: get ready</p>
+      <p>Work on math, find time to restudy previous exam</p>
     </div>
   );
 };
