@@ -16,6 +16,7 @@ export const Psy = () => {
       <p>Work on readings</p>
       <p>Class missed for two weeks.</p>
       <p>Class was canceled last week</p>
+      <p>Psy today, quiz due this sunday</p>
     </div>
   );
 };
