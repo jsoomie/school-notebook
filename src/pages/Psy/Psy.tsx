@@ -18,6 +18,7 @@ export const Psy = () => {
       <p>Class was canceled last week</p>
       <p>Psy today, quiz due this sunday</p>
       <p>Study for quiz</p>
+      <p>Study now</p>
     </div>
   );
 };
