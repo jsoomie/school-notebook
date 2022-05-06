@@ -43,6 +43,7 @@ export const Math = () => {
       <p>Work on math, find time to restudy previous exam</p>
       <p>More math to work on</p>
       <p>Finish Math HW then study for retest</p>
+      <p>Restest cannot be taken</p>
     </div>
   );
 };
