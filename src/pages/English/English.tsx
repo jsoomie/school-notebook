@@ -43,6 +43,7 @@ export const English = () => {
       <p>Late pass for essay: must finish by this weekend</p>
       <p>Last chance for essay</p>
       <p>Done</p>
+      <p>Create video about final essay</p>
     </div>
   );
 };
