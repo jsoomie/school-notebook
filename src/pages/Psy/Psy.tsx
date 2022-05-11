@@ -20,6 +20,7 @@ export const Psy = () => {
       <p>Study for quiz</p>
       <p>Study now</p>
       <p>Finish chapters for quiz: Chapter 7 - 10</p>
+      <p>Continually studying</p>
     </div>
   );
 };
