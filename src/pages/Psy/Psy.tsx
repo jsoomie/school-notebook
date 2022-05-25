@@ -24,6 +24,7 @@ export const Psy = () => {
       <p>Class today</p>
       <p>Final quiz finish by this upcoming saturday</p>
       <p>3 chapters to study</p>
+      <p>Done with final quiz</p>
     </div>
   );
 };
